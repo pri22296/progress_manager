@@ -2,6 +2,10 @@
 Command Line Progress Indicator Library for Python 3
 ##########################################################################
 
+.. image:: https://badges.gitter.im/progressindicator/Lobby.svg
+   :alt: Join the chat at https://gitter.im/progressindicator/Lobby
+   :target: https://gitter.im/progressindicator/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
+
 
 .. inclusion-marker-introduction-start
 
